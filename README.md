@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **js**
 
-- 🔎 intrested in codes, modern engineering sceince & entrepreneurship
+- 👩🏻‍💻 intrested in codes, modern engineering sceince & entrepreneurship
 
-- **PASSIONATE LEARNER** always a student >> open to learn
+- 🔎 **PASSIONATE LEARNER** always a student >> open to learn
 
 - 📫 How to reach me **haneenemad29@gmail.com**
 
