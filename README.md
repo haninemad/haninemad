@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 intrested in codes, modern engineering sceince & entrepreneurship
 
-- 🔎 **PASSIONATE LEARNER** always a student >> open to learn
+- 🔎 **LIFELONG LEARNER** always a student passionate to learn
 
 - 📫 How to reach me **haneenemad29@gmail.com**
 
