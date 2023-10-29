@@ -2,9 +2,9 @@
 <h3 align="center">Engineer</h3>
 
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently studying **Database Engineering**
 
-- 👩🏻‍💻 intrested in codes, modern engineering sceince & entrepreneurship
+- 👩🏻‍💻 intrested in software development, modern engineering sceince & entrepreneurship
 
 - 🔎 **LIFELONG LEARNER** always a student passionate to learn
 
