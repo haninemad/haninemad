@@ -1,10 +1,10 @@
 <h1>Helloooo 👋, I'm Hanin Emad</h1>
-<h3 align="center">Network Engineer</h3>
+<h3 align="center">Database Engineer</h3>
 
 
-- 🌱 I’m currently studying **Database Engineering**
+- 🌱 I own a bachelor degree in **Telecommunication Engineering**
 
-- 👩🏻‍💻 intrested in software development, modern engineering sceince & entrepreneurship
+- 👩🏻‍💻 intrested in software development, business & entrepreneurship
 
 - 🔎 **LIFELONG LEARNER** always a student passionate to learn
 
